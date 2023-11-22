@@ -6,6 +6,10 @@ body {
   a {
     color: #885df1;
   }
+  .shecodes-logo {
+    margin-bottom: 0.5rem;
+    margin-left: 0.4rem;
+  }
   
   .weather-app {
     background: white;
@@ -73,7 +77,8 @@ body {
   
   .weather-app-icon {
     font-size: 44px;
-    margin-top: 22px;
+    margin-top: 2px;
+    
   }
   
   .weather-app-temperature {
@@ -94,5 +99,6 @@ body {
     font-size: 13px;
     color: rgba(0, 0, 0, 0.6);
     margin-top: -7rem;
+    font-weight: bold;
     
   }
